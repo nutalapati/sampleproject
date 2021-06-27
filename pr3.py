@@ -7,3 +7,5 @@ atmValue = 50000
 remainingAmount = atmValue - cashAmount
 print ('take your cash 1000', cash ,remainingAmount,sep="->", end="======")
 print ('thank you visit again')
+print ('thank you suresh techs for great teaching ')
+
